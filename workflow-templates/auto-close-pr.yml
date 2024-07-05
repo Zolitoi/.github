@@ -1,4 +1,4 @@
-name: Auto Close PRs
+name:0x5bfa:5bfa/CQ-VanaraRemoval1
 
 on:
   pull_request_target:
